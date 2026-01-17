@@ -1,0 +1,1051 @@
+id,difficulty,question,option_a,option_b,option_c,option_d,answer,concept
+1,easy,Which term is zero in steady-state mass balance? (Variant 1),Input,Output,Accumulation,Generation,2,mass_balance
+2,medium,Why is a purge stream required in recycle systems? (Variant 1),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+3,hard,Which balance must always be satisfied? (Variant 1),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+4,easy,Which term is zero in steady-state mass balance? (Variant 2),Input,Output,Accumulation,Generation,2,mass_balance
+5,medium,Why is a purge stream required in recycle systems? (Variant 2),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+6,hard,Which balance must always be satisfied? (Variant 2),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+7,easy,Which term is zero in steady-state mass balance? (Variant 3),Input,Output,Accumulation,Generation,2,mass_balance
+8,medium,Why is a purge stream required in recycle systems? (Variant 3),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+9,hard,Which balance must always be satisfied? (Variant 3),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+10,easy,Which term is zero in steady-state mass balance? (Variant 4),Input,Output,Accumulation,Generation,2,mass_balance
+11,medium,Why is a purge stream required in recycle systems? (Variant 4),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+12,hard,Which balance must always be satisfied? (Variant 4),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+13,easy,Which term is zero in steady-state mass balance? (Variant 5),Input,Output,Accumulation,Generation,2,mass_balance
+14,medium,Why is a purge stream required in recycle systems? (Variant 5),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+15,hard,Which balance must always be satisfied? (Variant 5),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+16,easy,Which term is zero in steady-state mass balance? (Variant 6),Input,Output,Accumulation,Generation,2,mass_balance
+17,medium,Why is a purge stream required in recycle systems? (Variant 6),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+18,hard,Which balance must always be satisfied? (Variant 6),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+19,easy,Which term is zero in steady-state mass balance? (Variant 7),Input,Output,Accumulation,Generation,2,mass_balance
+20,medium,Why is a purge stream required in recycle systems? (Variant 7),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+21,hard,Which balance must always be satisfied? (Variant 7),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+22,easy,Which term is zero in steady-state mass balance? (Variant 8),Input,Output,Accumulation,Generation,2,mass_balance
+23,medium,Why is a purge stream required in recycle systems? (Variant 8),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+24,hard,Which balance must always be satisfied? (Variant 8),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+25,easy,Which term is zero in steady-state mass balance? (Variant 9),Input,Output,Accumulation,Generation,2,mass_balance
+26,medium,Why is a purge stream required in recycle systems? (Variant 9),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+27,hard,Which balance must always be satisfied? (Variant 9),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+28,easy,Which term is zero in steady-state mass balance? (Variant 10),Input,Output,Accumulation,Generation,2,mass_balance
+29,medium,Why is a purge stream required in recycle systems? (Variant 10),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+30,hard,Which balance must always be satisfied? (Variant 10),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+31,easy,Which term is zero in steady-state mass balance? (Variant 11),Input,Output,Accumulation,Generation,2,mass_balance
+32,medium,Why is a purge stream required in recycle systems? (Variant 11),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+33,hard,Which balance must always be satisfied? (Variant 11),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+34,easy,Which term is zero in steady-state mass balance? (Variant 12),Input,Output,Accumulation,Generation,2,mass_balance
+35,medium,Why is a purge stream required in recycle systems? (Variant 12),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+36,hard,Which balance must always be satisfied? (Variant 12),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+37,easy,Which term is zero in steady-state mass balance? (Variant 13),Input,Output,Accumulation,Generation,2,mass_balance
+38,medium,Why is a purge stream required in recycle systems? (Variant 13),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+39,hard,Which balance must always be satisfied? (Variant 13),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+40,easy,Which term is zero in steady-state mass balance? (Variant 14),Input,Output,Accumulation,Generation,2,mass_balance
+41,medium,Why is a purge stream required in recycle systems? (Variant 14),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+42,hard,Which balance must always be satisfied? (Variant 14),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+43,easy,Which term is zero in steady-state mass balance? (Variant 15),Input,Output,Accumulation,Generation,2,mass_balance
+44,medium,Why is a purge stream required in recycle systems? (Variant 15),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+45,hard,Which balance must always be satisfied? (Variant 15),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+46,easy,Which term is zero in steady-state mass balance? (Variant 16),Input,Output,Accumulation,Generation,2,mass_balance
+47,medium,Why is a purge stream required in recycle systems? (Variant 16),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+48,hard,Which balance must always be satisfied? (Variant 16),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+49,easy,Which term is zero in steady-state mass balance? (Variant 17),Input,Output,Accumulation,Generation,2,mass_balance
+50,medium,Why is a purge stream required in recycle systems? (Variant 17),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+51,hard,Which balance must always be satisfied? (Variant 17),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+52,easy,Which term is zero in steady-state mass balance? (Variant 18),Input,Output,Accumulation,Generation,2,mass_balance
+53,medium,Why is a purge stream required in recycle systems? (Variant 18),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+54,hard,Which balance must always be satisfied? (Variant 18),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+55,easy,Which term is zero in steady-state mass balance? (Variant 19),Input,Output,Accumulation,Generation,2,mass_balance
+56,medium,Why is a purge stream required in recycle systems? (Variant 19),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+57,hard,Which balance must always be satisfied? (Variant 19),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+58,easy,Which term is zero in steady-state mass balance? (Variant 20),Input,Output,Accumulation,Generation,2,mass_balance
+59,medium,Why is a purge stream required in recycle systems? (Variant 20),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+60,hard,Which balance must always be satisfied? (Variant 20),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+61,easy,Which term is zero in steady-state mass balance? (Variant 21),Input,Output,Accumulation,Generation,2,mass_balance
+62,medium,Why is a purge stream required in recycle systems? (Variant 21),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+63,hard,Which balance must always be satisfied? (Variant 21),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+64,easy,Which term is zero in steady-state mass balance? (Variant 22),Input,Output,Accumulation,Generation,2,mass_balance
+65,medium,Why is a purge stream required in recycle systems? (Variant 22),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+66,hard,Which balance must always be satisfied? (Variant 22),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+67,easy,Which term is zero in steady-state mass balance? (Variant 23),Input,Output,Accumulation,Generation,2,mass_balance
+68,medium,Why is a purge stream required in recycle systems? (Variant 23),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+69,hard,Which balance must always be satisfied? (Variant 23),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+70,easy,Which term is zero in steady-state mass balance? (Variant 24),Input,Output,Accumulation,Generation,2,mass_balance
+71,medium,Why is a purge stream required in recycle systems? (Variant 24),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+72,hard,Which balance must always be satisfied? (Variant 24),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+73,easy,Which term is zero in steady-state mass balance? (Variant 25),Input,Output,Accumulation,Generation,2,mass_balance
+74,medium,Why is a purge stream required in recycle systems? (Variant 25),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+75,hard,Which balance must always be satisfied? (Variant 25),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+76,easy,Which term is zero in steady-state mass balance? (Variant 26),Input,Output,Accumulation,Generation,2,mass_balance
+77,medium,Why is a purge stream required in recycle systems? (Variant 26),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+78,hard,Which balance must always be satisfied? (Variant 26),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+79,easy,Which term is zero in steady-state mass balance? (Variant 27),Input,Output,Accumulation,Generation,2,mass_balance
+80,medium,Why is a purge stream required in recycle systems? (Variant 27),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+81,hard,Which balance must always be satisfied? (Variant 27),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+82,easy,Which term is zero in steady-state mass balance? (Variant 28),Input,Output,Accumulation,Generation,2,mass_balance
+83,medium,Why is a purge stream required in recycle systems? (Variant 28),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+84,hard,Which balance must always be satisfied? (Variant 28),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+85,easy,Which term is zero in steady-state mass balance? (Variant 29),Input,Output,Accumulation,Generation,2,mass_balance
+86,medium,Why is a purge stream required in recycle systems? (Variant 29),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+87,hard,Which balance must always be satisfied? (Variant 29),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+88,easy,Which term is zero in steady-state mass balance? (Variant 30),Input,Output,Accumulation,Generation,2,mass_balance
+89,medium,Why is a purge stream required in recycle systems? (Variant 30),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+90,hard,Which balance must always be satisfied? (Variant 30),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+91,easy,Which term is zero in steady-state mass balance? (Variant 31),Input,Output,Accumulation,Generation,2,mass_balance
+92,medium,Why is a purge stream required in recycle systems? (Variant 31),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+93,hard,Which balance must always be satisfied? (Variant 31),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+94,easy,Which term is zero in steady-state mass balance? (Variant 32),Input,Output,Accumulation,Generation,2,mass_balance
+95,medium,Why is a purge stream required in recycle systems? (Variant 32),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+96,hard,Which balance must always be satisfied? (Variant 32),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+97,easy,Which term is zero in steady-state mass balance? (Variant 33),Input,Output,Accumulation,Generation,2,mass_balance
+98,medium,Why is a purge stream required in recycle systems? (Variant 33),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+99,hard,Which balance must always be satisfied? (Variant 33),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+100,easy,Which term is zero in steady-state mass balance? (Variant 34),Input,Output,Accumulation,Generation,2,mass_balance
+101,medium,Why is a purge stream required in recycle systems? (Variant 34),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+102,hard,Which balance must always be satisfied? (Variant 34),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+103,easy,Which term is zero in steady-state mass balance? (Variant 35),Input,Output,Accumulation,Generation,2,mass_balance
+104,medium,Why is a purge stream required in recycle systems? (Variant 35),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+105,hard,Which balance must always be satisfied? (Variant 35),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+106,easy,Which term is zero in steady-state mass balance? (Variant 36),Input,Output,Accumulation,Generation,2,mass_balance
+107,medium,Why is a purge stream required in recycle systems? (Variant 36),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+108,hard,Which balance must always be satisfied? (Variant 36),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+109,easy,Which term is zero in steady-state mass balance? (Variant 37),Input,Output,Accumulation,Generation,2,mass_balance
+110,medium,Why is a purge stream required in recycle systems? (Variant 37),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+111,hard,Which balance must always be satisfied? (Variant 37),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+112,easy,Which term is zero in steady-state mass balance? (Variant 38),Input,Output,Accumulation,Generation,2,mass_balance
+113,medium,Why is a purge stream required in recycle systems? (Variant 38),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+114,hard,Which balance must always be satisfied? (Variant 38),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+115,easy,Which term is zero in steady-state mass balance? (Variant 39),Input,Output,Accumulation,Generation,2,mass_balance
+116,medium,Why is a purge stream required in recycle systems? (Variant 39),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+117,hard,Which balance must always be satisfied? (Variant 39),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+118,easy,Which term is zero in steady-state mass balance? (Variant 40),Input,Output,Accumulation,Generation,2,mass_balance
+119,medium,Why is a purge stream required in recycle systems? (Variant 40),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+120,hard,Which balance must always be satisfied? (Variant 40),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+121,easy,Which term is zero in steady-state mass balance? (Variant 41),Input,Output,Accumulation,Generation,2,mass_balance
+122,medium,Why is a purge stream required in recycle systems? (Variant 41),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+123,hard,Which balance must always be satisfied? (Variant 41),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+124,easy,Which term is zero in steady-state mass balance? (Variant 42),Input,Output,Accumulation,Generation,2,mass_balance
+125,medium,Why is a purge stream required in recycle systems? (Variant 42),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+126,hard,Which balance must always be satisfied? (Variant 42),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+127,easy,Which term is zero in steady-state mass balance? (Variant 43),Input,Output,Accumulation,Generation,2,mass_balance
+128,medium,Why is a purge stream required in recycle systems? (Variant 43),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+129,hard,Which balance must always be satisfied? (Variant 43),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+130,easy,Which term is zero in steady-state mass balance? (Variant 44),Input,Output,Accumulation,Generation,2,mass_balance
+131,medium,Why is a purge stream required in recycle systems? (Variant 44),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+132,hard,Which balance must always be satisfied? (Variant 44),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+133,easy,Which term is zero in steady-state mass balance? (Variant 45),Input,Output,Accumulation,Generation,2,mass_balance
+134,medium,Why is a purge stream required in recycle systems? (Variant 45),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+135,hard,Which balance must always be satisfied? (Variant 45),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+136,easy,Which term is zero in steady-state mass balance? (Variant 46),Input,Output,Accumulation,Generation,2,mass_balance
+137,medium,Why is a purge stream required in recycle systems? (Variant 46),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+138,hard,Which balance must always be satisfied? (Variant 46),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+139,easy,Which term is zero in steady-state mass balance? (Variant 47),Input,Output,Accumulation,Generation,2,mass_balance
+140,medium,Why is a purge stream required in recycle systems? (Variant 47),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+141,hard,Which balance must always be satisfied? (Variant 47),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+142,easy,Which term is zero in steady-state mass balance? (Variant 48),Input,Output,Accumulation,Generation,2,mass_balance
+143,medium,Why is a purge stream required in recycle systems? (Variant 48),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+144,hard,Which balance must always be satisfied? (Variant 48),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+145,easy,Which term is zero in steady-state mass balance? (Variant 49),Input,Output,Accumulation,Generation,2,mass_balance
+146,medium,Why is a purge stream required in recycle systems? (Variant 49),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+147,hard,Which balance must always be satisfied? (Variant 49),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+148,easy,Which term is zero in steady-state mass balance? (Variant 50),Input,Output,Accumulation,Generation,2,mass_balance
+149,medium,Why is a purge stream required in recycle systems? (Variant 50),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+150,hard,Which balance must always be satisfied? (Variant 50),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+151,easy,Which term is zero in steady-state mass balance? (Variant 51),Input,Output,Accumulation,Generation,2,mass_balance
+152,medium,Why is a purge stream required in recycle systems? (Variant 51),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+153,hard,Which balance must always be satisfied? (Variant 51),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+154,easy,Which term is zero in steady-state mass balance? (Variant 52),Input,Output,Accumulation,Generation,2,mass_balance
+155,medium,Why is a purge stream required in recycle systems? (Variant 52),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+156,hard,Which balance must always be satisfied? (Variant 52),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+157,easy,Which term is zero in steady-state mass balance? (Variant 53),Input,Output,Accumulation,Generation,2,mass_balance
+158,medium,Why is a purge stream required in recycle systems? (Variant 53),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+159,hard,Which balance must always be satisfied? (Variant 53),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+160,easy,Which term is zero in steady-state mass balance? (Variant 54),Input,Output,Accumulation,Generation,2,mass_balance
+161,medium,Why is a purge stream required in recycle systems? (Variant 54),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+162,hard,Which balance must always be satisfied? (Variant 54),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+163,easy,Which term is zero in steady-state mass balance? (Variant 55),Input,Output,Accumulation,Generation,2,mass_balance
+164,medium,Why is a purge stream required in recycle systems? (Variant 55),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+165,hard,Which balance must always be satisfied? (Variant 55),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+166,easy,Which term is zero in steady-state mass balance? (Variant 56),Input,Output,Accumulation,Generation,2,mass_balance
+167,medium,Why is a purge stream required in recycle systems? (Variant 56),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+168,hard,Which balance must always be satisfied? (Variant 56),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+169,easy,Which term is zero in steady-state mass balance? (Variant 57),Input,Output,Accumulation,Generation,2,mass_balance
+170,medium,Why is a purge stream required in recycle systems? (Variant 57),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+171,hard,Which balance must always be satisfied? (Variant 57),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+172,easy,Which term is zero in steady-state mass balance? (Variant 58),Input,Output,Accumulation,Generation,2,mass_balance
+173,medium,Why is a purge stream required in recycle systems? (Variant 58),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+174,hard,Which balance must always be satisfied? (Variant 58),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+175,easy,Which term is zero in steady-state mass balance? (Variant 59),Input,Output,Accumulation,Generation,2,mass_balance
+176,medium,Why is a purge stream required in recycle systems? (Variant 59),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+177,hard,Which balance must always be satisfied? (Variant 59),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+178,easy,Which term is zero in steady-state mass balance? (Variant 60),Input,Output,Accumulation,Generation,2,mass_balance
+179,medium,Why is a purge stream required in recycle systems? (Variant 60),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+180,hard,Which balance must always be satisfied? (Variant 60),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+181,easy,Which term is zero in steady-state mass balance? (Variant 61),Input,Output,Accumulation,Generation,2,mass_balance
+182,medium,Why is a purge stream required in recycle systems? (Variant 61),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+183,hard,Which balance must always be satisfied? (Variant 61),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+184,easy,Which term is zero in steady-state mass balance? (Variant 62),Input,Output,Accumulation,Generation,2,mass_balance
+185,medium,Why is a purge stream required in recycle systems? (Variant 62),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+186,hard,Which balance must always be satisfied? (Variant 62),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+187,easy,Which term is zero in steady-state mass balance? (Variant 63),Input,Output,Accumulation,Generation,2,mass_balance
+188,medium,Why is a purge stream required in recycle systems? (Variant 63),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+189,hard,Which balance must always be satisfied? (Variant 63),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+190,easy,Which term is zero in steady-state mass balance? (Variant 64),Input,Output,Accumulation,Generation,2,mass_balance
+191,medium,Why is a purge stream required in recycle systems? (Variant 64),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+192,hard,Which balance must always be satisfied? (Variant 64),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+193,easy,Which term is zero in steady-state mass balance? (Variant 65),Input,Output,Accumulation,Generation,2,mass_balance
+194,medium,Why is a purge stream required in recycle systems? (Variant 65),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+195,hard,Which balance must always be satisfied? (Variant 65),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+196,easy,Which term is zero in steady-state mass balance? (Variant 66),Input,Output,Accumulation,Generation,2,mass_balance
+197,medium,Why is a purge stream required in recycle systems? (Variant 66),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+198,hard,Which balance must always be satisfied? (Variant 66),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+199,easy,Which term is zero in steady-state mass balance? (Variant 67),Input,Output,Accumulation,Generation,2,mass_balance
+200,medium,Why is a purge stream required in recycle systems? (Variant 67),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+201,hard,Which balance must always be satisfied? (Variant 67),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+202,easy,Which term is zero in steady-state mass balance? (Variant 68),Input,Output,Accumulation,Generation,2,mass_balance
+203,medium,Why is a purge stream required in recycle systems? (Variant 68),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+204,hard,Which balance must always be satisfied? (Variant 68),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+205,easy,Which term is zero in steady-state mass balance? (Variant 69),Input,Output,Accumulation,Generation,2,mass_balance
+206,medium,Why is a purge stream required in recycle systems? (Variant 69),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+207,hard,Which balance must always be satisfied? (Variant 69),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+208,easy,Which term is zero in steady-state mass balance? (Variant 70),Input,Output,Accumulation,Generation,2,mass_balance
+209,medium,Why is a purge stream required in recycle systems? (Variant 70),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+210,hard,Which balance must always be satisfied? (Variant 70),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+211,easy,Which term is zero in steady-state mass balance? (Variant 71),Input,Output,Accumulation,Generation,2,mass_balance
+212,medium,Why is a purge stream required in recycle systems? (Variant 71),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+213,hard,Which balance must always be satisfied? (Variant 71),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+214,easy,Which term is zero in steady-state mass balance? (Variant 72),Input,Output,Accumulation,Generation,2,mass_balance
+215,medium,Why is a purge stream required in recycle systems? (Variant 72),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+216,hard,Which balance must always be satisfied? (Variant 72),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+217,easy,Which term is zero in steady-state mass balance? (Variant 73),Input,Output,Accumulation,Generation,2,mass_balance
+218,medium,Why is a purge stream required in recycle systems? (Variant 73),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+219,hard,Which balance must always be satisfied? (Variant 73),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+220,easy,Which term is zero in steady-state mass balance? (Variant 74),Input,Output,Accumulation,Generation,2,mass_balance
+221,medium,Why is a purge stream required in recycle systems? (Variant 74),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+222,hard,Which balance must always be satisfied? (Variant 74),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+223,easy,Which term is zero in steady-state mass balance? (Variant 75),Input,Output,Accumulation,Generation,2,mass_balance
+224,medium,Why is a purge stream required in recycle systems? (Variant 75),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+225,hard,Which balance must always be satisfied? (Variant 75),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+226,easy,Which term is zero in steady-state mass balance? (Variant 76),Input,Output,Accumulation,Generation,2,mass_balance
+227,medium,Why is a purge stream required in recycle systems? (Variant 76),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+228,hard,Which balance must always be satisfied? (Variant 76),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+229,easy,Which term is zero in steady-state mass balance? (Variant 77),Input,Output,Accumulation,Generation,2,mass_balance
+230,medium,Why is a purge stream required in recycle systems? (Variant 77),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+231,hard,Which balance must always be satisfied? (Variant 77),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+232,easy,Which term is zero in steady-state mass balance? (Variant 78),Input,Output,Accumulation,Generation,2,mass_balance
+233,medium,Why is a purge stream required in recycle systems? (Variant 78),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+234,hard,Which balance must always be satisfied? (Variant 78),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+235,easy,Which term is zero in steady-state mass balance? (Variant 79),Input,Output,Accumulation,Generation,2,mass_balance
+236,medium,Why is a purge stream required in recycle systems? (Variant 79),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+237,hard,Which balance must always be satisfied? (Variant 79),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+238,easy,Which term is zero in steady-state mass balance? (Variant 80),Input,Output,Accumulation,Generation,2,mass_balance
+239,medium,Why is a purge stream required in recycle systems? (Variant 80),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+240,hard,Which balance must always be satisfied? (Variant 80),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+241,easy,Which term is zero in steady-state mass balance? (Variant 81),Input,Output,Accumulation,Generation,2,mass_balance
+242,medium,Why is a purge stream required in recycle systems? (Variant 81),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+243,hard,Which balance must always be satisfied? (Variant 81),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+244,easy,Which term is zero in steady-state mass balance? (Variant 82),Input,Output,Accumulation,Generation,2,mass_balance
+245,medium,Why is a purge stream required in recycle systems? (Variant 82),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+246,hard,Which balance must always be satisfied? (Variant 82),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+247,easy,Which term is zero in steady-state mass balance? (Variant 83),Input,Output,Accumulation,Generation,2,mass_balance
+248,medium,Why is a purge stream required in recycle systems? (Variant 83),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+249,hard,Which balance must always be satisfied? (Variant 83),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+250,easy,Which term is zero in steady-state mass balance? (Variant 84),Input,Output,Accumulation,Generation,2,mass_balance
+251,medium,Why is a purge stream required in recycle systems? (Variant 84),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+252,hard,Which balance must always be satisfied? (Variant 84),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+253,easy,Which term is zero in steady-state mass balance? (Variant 85),Input,Output,Accumulation,Generation,2,mass_balance
+254,medium,Why is a purge stream required in recycle systems? (Variant 85),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+255,hard,Which balance must always be satisfied? (Variant 85),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+256,easy,Which term is zero in steady-state mass balance? (Variant 86),Input,Output,Accumulation,Generation,2,mass_balance
+257,medium,Why is a purge stream required in recycle systems? (Variant 86),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+258,hard,Which balance must always be satisfied? (Variant 86),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+259,easy,Which term is zero in steady-state mass balance? (Variant 87),Input,Output,Accumulation,Generation,2,mass_balance
+260,medium,Why is a purge stream required in recycle systems? (Variant 87),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+261,hard,Which balance must always be satisfied? (Variant 87),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+262,easy,Which term is zero in steady-state mass balance? (Variant 88),Input,Output,Accumulation,Generation,2,mass_balance
+263,medium,Why is a purge stream required in recycle systems? (Variant 88),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+264,hard,Which balance must always be satisfied? (Variant 88),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+265,easy,Which term is zero in steady-state mass balance? (Variant 89),Input,Output,Accumulation,Generation,2,mass_balance
+266,medium,Why is a purge stream required in recycle systems? (Variant 89),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+267,hard,Which balance must always be satisfied? (Variant 89),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+268,easy,Which term is zero in steady-state mass balance? (Variant 90),Input,Output,Accumulation,Generation,2,mass_balance
+269,medium,Why is a purge stream required in recycle systems? (Variant 90),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+270,hard,Which balance must always be satisfied? (Variant 90),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+271,easy,Which term is zero in steady-state mass balance? (Variant 91),Input,Output,Accumulation,Generation,2,mass_balance
+272,medium,Why is a purge stream required in recycle systems? (Variant 91),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+273,hard,Which balance must always be satisfied? (Variant 91),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+274,easy,Which term is zero in steady-state mass balance? (Variant 92),Input,Output,Accumulation,Generation,2,mass_balance
+275,medium,Why is a purge stream required in recycle systems? (Variant 92),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+276,hard,Which balance must always be satisfied? (Variant 92),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+277,easy,Which term is zero in steady-state mass balance? (Variant 93),Input,Output,Accumulation,Generation,2,mass_balance
+278,medium,Why is a purge stream required in recycle systems? (Variant 93),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+279,hard,Which balance must always be satisfied? (Variant 93),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+280,easy,Which term is zero in steady-state mass balance? (Variant 94),Input,Output,Accumulation,Generation,2,mass_balance
+281,medium,Why is a purge stream required in recycle systems? (Variant 94),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+282,hard,Which balance must always be satisfied? (Variant 94),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+283,easy,Which term is zero in steady-state mass balance? (Variant 95),Input,Output,Accumulation,Generation,2,mass_balance
+284,medium,Why is a purge stream required in recycle systems? (Variant 95),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+285,hard,Which balance must always be satisfied? (Variant 95),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+286,easy,Which term is zero in steady-state mass balance? (Variant 96),Input,Output,Accumulation,Generation,2,mass_balance
+287,medium,Why is a purge stream required in recycle systems? (Variant 96),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+288,hard,Which balance must always be satisfied? (Variant 96),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+289,easy,Which term is zero in steady-state mass balance? (Variant 97),Input,Output,Accumulation,Generation,2,mass_balance
+290,medium,Why is a purge stream required in recycle systems? (Variant 97),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+291,hard,Which balance must always be satisfied? (Variant 97),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+292,easy,Which term is zero in steady-state mass balance? (Variant 98),Input,Output,Accumulation,Generation,2,mass_balance
+293,medium,Why is a purge stream required in recycle systems? (Variant 98),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+294,hard,Which balance must always be satisfied? (Variant 98),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+295,easy,Which term is zero in steady-state mass balance? (Variant 99),Input,Output,Accumulation,Generation,2,mass_balance
+296,medium,Why is a purge stream required in recycle systems? (Variant 99),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+297,hard,Which balance must always be satisfied? (Variant 99),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+298,easy,Which term is zero in steady-state mass balance? (Variant 100),Input,Output,Accumulation,Generation,2,mass_balance
+299,medium,Why is a purge stream required in recycle systems? (Variant 100),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+300,hard,Which balance must always be satisfied? (Variant 100),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+301,easy,Which term is zero in steady-state mass balance? (Variant 101),Input,Output,Accumulation,Generation,2,mass_balance
+302,medium,Why is a purge stream required in recycle systems? (Variant 101),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+303,hard,Which balance must always be satisfied? (Variant 101),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+304,easy,Which term is zero in steady-state mass balance? (Variant 102),Input,Output,Accumulation,Generation,2,mass_balance
+305,medium,Why is a purge stream required in recycle systems? (Variant 102),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+306,hard,Which balance must always be satisfied? (Variant 102),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+307,easy,Which term is zero in steady-state mass balance? (Variant 103),Input,Output,Accumulation,Generation,2,mass_balance
+308,medium,Why is a purge stream required in recycle systems? (Variant 103),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+309,hard,Which balance must always be satisfied? (Variant 103),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+310,easy,Which term is zero in steady-state mass balance? (Variant 104),Input,Output,Accumulation,Generation,2,mass_balance
+311,medium,Why is a purge stream required in recycle systems? (Variant 104),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+312,hard,Which balance must always be satisfied? (Variant 104),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+313,easy,Which term is zero in steady-state mass balance? (Variant 105),Input,Output,Accumulation,Generation,2,mass_balance
+314,medium,Why is a purge stream required in recycle systems? (Variant 105),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+315,hard,Which balance must always be satisfied? (Variant 105),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+316,easy,Which term is zero in steady-state mass balance? (Variant 106),Input,Output,Accumulation,Generation,2,mass_balance
+317,medium,Why is a purge stream required in recycle systems? (Variant 106),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+318,hard,Which balance must always be satisfied? (Variant 106),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+319,easy,Which term is zero in steady-state mass balance? (Variant 107),Input,Output,Accumulation,Generation,2,mass_balance
+320,medium,Why is a purge stream required in recycle systems? (Variant 107),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+321,hard,Which balance must always be satisfied? (Variant 107),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+322,easy,Which term is zero in steady-state mass balance? (Variant 108),Input,Output,Accumulation,Generation,2,mass_balance
+323,medium,Why is a purge stream required in recycle systems? (Variant 108),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+324,hard,Which balance must always be satisfied? (Variant 108),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+325,easy,Which term is zero in steady-state mass balance? (Variant 109),Input,Output,Accumulation,Generation,2,mass_balance
+326,medium,Why is a purge stream required in recycle systems? (Variant 109),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+327,hard,Which balance must always be satisfied? (Variant 109),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+328,easy,Which term is zero in steady-state mass balance? (Variant 110),Input,Output,Accumulation,Generation,2,mass_balance
+329,medium,Why is a purge stream required in recycle systems? (Variant 110),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+330,hard,Which balance must always be satisfied? (Variant 110),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+331,easy,Which term is zero in steady-state mass balance? (Variant 111),Input,Output,Accumulation,Generation,2,mass_balance
+332,medium,Why is a purge stream required in recycle systems? (Variant 111),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+333,hard,Which balance must always be satisfied? (Variant 111),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+334,easy,Which term is zero in steady-state mass balance? (Variant 112),Input,Output,Accumulation,Generation,2,mass_balance
+335,medium,Why is a purge stream required in recycle systems? (Variant 112),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+336,hard,Which balance must always be satisfied? (Variant 112),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+337,easy,Which term is zero in steady-state mass balance? (Variant 113),Input,Output,Accumulation,Generation,2,mass_balance
+338,medium,Why is a purge stream required in recycle systems? (Variant 113),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+339,hard,Which balance must always be satisfied? (Variant 113),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+340,easy,Which term is zero in steady-state mass balance? (Variant 114),Input,Output,Accumulation,Generation,2,mass_balance
+341,medium,Why is a purge stream required in recycle systems? (Variant 114),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+342,hard,Which balance must always be satisfied? (Variant 114),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+343,easy,Which term is zero in steady-state mass balance? (Variant 115),Input,Output,Accumulation,Generation,2,mass_balance
+344,medium,Why is a purge stream required in recycle systems? (Variant 115),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+345,hard,Which balance must always be satisfied? (Variant 115),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+346,easy,Which term is zero in steady-state mass balance? (Variant 116),Input,Output,Accumulation,Generation,2,mass_balance
+347,medium,Why is a purge stream required in recycle systems? (Variant 116),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+348,hard,Which balance must always be satisfied? (Variant 116),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+349,easy,Which term is zero in steady-state mass balance? (Variant 117),Input,Output,Accumulation,Generation,2,mass_balance
+350,medium,Why is a purge stream required in recycle systems? (Variant 117),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+351,hard,Which balance must always be satisfied? (Variant 117),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+352,easy,Which term is zero in steady-state mass balance? (Variant 118),Input,Output,Accumulation,Generation,2,mass_balance
+353,medium,Why is a purge stream required in recycle systems? (Variant 118),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+354,hard,Which balance must always be satisfied? (Variant 118),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+355,easy,Which term is zero in steady-state mass balance? (Variant 119),Input,Output,Accumulation,Generation,2,mass_balance
+356,medium,Why is a purge stream required in recycle systems? (Variant 119),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+357,hard,Which balance must always be satisfied? (Variant 119),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+358,easy,Which term is zero in steady-state mass balance? (Variant 120),Input,Output,Accumulation,Generation,2,mass_balance
+359,medium,Why is a purge stream required in recycle systems? (Variant 120),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+360,hard,Which balance must always be satisfied? (Variant 120),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+361,easy,Which term is zero in steady-state mass balance? (Variant 121),Input,Output,Accumulation,Generation,2,mass_balance
+362,medium,Why is a purge stream required in recycle systems? (Variant 121),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+363,hard,Which balance must always be satisfied? (Variant 121),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+364,easy,Which term is zero in steady-state mass balance? (Variant 122),Input,Output,Accumulation,Generation,2,mass_balance
+365,medium,Why is a purge stream required in recycle systems? (Variant 122),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+366,hard,Which balance must always be satisfied? (Variant 122),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+367,easy,Which term is zero in steady-state mass balance? (Variant 123),Input,Output,Accumulation,Generation,2,mass_balance
+368,medium,Why is a purge stream required in recycle systems? (Variant 123),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+369,hard,Which balance must always be satisfied? (Variant 123),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+370,easy,Which term is zero in steady-state mass balance? (Variant 124),Input,Output,Accumulation,Generation,2,mass_balance
+371,medium,Why is a purge stream required in recycle systems? (Variant 124),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+372,hard,Which balance must always be satisfied? (Variant 124),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+373,easy,Which term is zero in steady-state mass balance? (Variant 125),Input,Output,Accumulation,Generation,2,mass_balance
+374,medium,Why is a purge stream required in recycle systems? (Variant 125),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+375,hard,Which balance must always be satisfied? (Variant 125),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+376,easy,Which term is zero in steady-state mass balance? (Variant 126),Input,Output,Accumulation,Generation,2,mass_balance
+377,medium,Why is a purge stream required in recycle systems? (Variant 126),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+378,hard,Which balance must always be satisfied? (Variant 126),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+379,easy,Which term is zero in steady-state mass balance? (Variant 127),Input,Output,Accumulation,Generation,2,mass_balance
+380,medium,Why is a purge stream required in recycle systems? (Variant 127),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+381,hard,Which balance must always be satisfied? (Variant 127),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+382,easy,Which term is zero in steady-state mass balance? (Variant 128),Input,Output,Accumulation,Generation,2,mass_balance
+383,medium,Why is a purge stream required in recycle systems? (Variant 128),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+384,hard,Which balance must always be satisfied? (Variant 128),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+385,easy,Which term is zero in steady-state mass balance? (Variant 129),Input,Output,Accumulation,Generation,2,mass_balance
+386,medium,Why is a purge stream required in recycle systems? (Variant 129),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+387,hard,Which balance must always be satisfied? (Variant 129),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+388,easy,Which term is zero in steady-state mass balance? (Variant 130),Input,Output,Accumulation,Generation,2,mass_balance
+389,medium,Why is a purge stream required in recycle systems? (Variant 130),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+390,hard,Which balance must always be satisfied? (Variant 130),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+391,easy,Which term is zero in steady-state mass balance? (Variant 131),Input,Output,Accumulation,Generation,2,mass_balance
+392,medium,Why is a purge stream required in recycle systems? (Variant 131),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+393,hard,Which balance must always be satisfied? (Variant 131),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+394,easy,Which term is zero in steady-state mass balance? (Variant 132),Input,Output,Accumulation,Generation,2,mass_balance
+395,medium,Why is a purge stream required in recycle systems? (Variant 132),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+396,hard,Which balance must always be satisfied? (Variant 132),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+397,easy,Which term is zero in steady-state mass balance? (Variant 133),Input,Output,Accumulation,Generation,2,mass_balance
+398,medium,Why is a purge stream required in recycle systems? (Variant 133),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+399,hard,Which balance must always be satisfied? (Variant 133),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+400,easy,Which term is zero in steady-state mass balance? (Variant 134),Input,Output,Accumulation,Generation,2,mass_balance
+401,medium,Why is a purge stream required in recycle systems? (Variant 134),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+402,hard,Which balance must always be satisfied? (Variant 134),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+403,easy,Which term is zero in steady-state mass balance? (Variant 135),Input,Output,Accumulation,Generation,2,mass_balance
+404,medium,Why is a purge stream required in recycle systems? (Variant 135),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+405,hard,Which balance must always be satisfied? (Variant 135),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+406,easy,Which term is zero in steady-state mass balance? (Variant 136),Input,Output,Accumulation,Generation,2,mass_balance
+407,medium,Why is a purge stream required in recycle systems? (Variant 136),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+408,hard,Which balance must always be satisfied? (Variant 136),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+409,easy,Which term is zero in steady-state mass balance? (Variant 137),Input,Output,Accumulation,Generation,2,mass_balance
+410,medium,Why is a purge stream required in recycle systems? (Variant 137),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+411,hard,Which balance must always be satisfied? (Variant 137),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+412,easy,Which term is zero in steady-state mass balance? (Variant 138),Input,Output,Accumulation,Generation,2,mass_balance
+413,medium,Why is a purge stream required in recycle systems? (Variant 138),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+414,hard,Which balance must always be satisfied? (Variant 138),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+415,easy,Which term is zero in steady-state mass balance? (Variant 139),Input,Output,Accumulation,Generation,2,mass_balance
+416,medium,Why is a purge stream required in recycle systems? (Variant 139),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+417,hard,Which balance must always be satisfied? (Variant 139),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+418,easy,Which term is zero in steady-state mass balance? (Variant 140),Input,Output,Accumulation,Generation,2,mass_balance
+419,medium,Why is a purge stream required in recycle systems? (Variant 140),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+420,hard,Which balance must always be satisfied? (Variant 140),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+421,easy,Which term is zero in steady-state mass balance? (Variant 141),Input,Output,Accumulation,Generation,2,mass_balance
+422,medium,Why is a purge stream required in recycle systems? (Variant 141),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+423,hard,Which balance must always be satisfied? (Variant 141),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+424,easy,Which term is zero in steady-state mass balance? (Variant 142),Input,Output,Accumulation,Generation,2,mass_balance
+425,medium,Why is a purge stream required in recycle systems? (Variant 142),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+426,hard,Which balance must always be satisfied? (Variant 142),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+427,easy,Which term is zero in steady-state mass balance? (Variant 143),Input,Output,Accumulation,Generation,2,mass_balance
+428,medium,Why is a purge stream required in recycle systems? (Variant 143),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+429,hard,Which balance must always be satisfied? (Variant 143),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+430,easy,Which term is zero in steady-state mass balance? (Variant 144),Input,Output,Accumulation,Generation,2,mass_balance
+431,medium,Why is a purge stream required in recycle systems? (Variant 144),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+432,hard,Which balance must always be satisfied? (Variant 144),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+433,easy,Which term is zero in steady-state mass balance? (Variant 145),Input,Output,Accumulation,Generation,2,mass_balance
+434,medium,Why is a purge stream required in recycle systems? (Variant 145),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+435,hard,Which balance must always be satisfied? (Variant 145),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+436,easy,Which term is zero in steady-state mass balance? (Variant 146),Input,Output,Accumulation,Generation,2,mass_balance
+437,medium,Why is a purge stream required in recycle systems? (Variant 146),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+438,hard,Which balance must always be satisfied? (Variant 146),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+439,easy,Which term is zero in steady-state mass balance? (Variant 147),Input,Output,Accumulation,Generation,2,mass_balance
+440,medium,Why is a purge stream required in recycle systems? (Variant 147),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+441,hard,Which balance must always be satisfied? (Variant 147),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+442,easy,Which term is zero in steady-state mass balance? (Variant 148),Input,Output,Accumulation,Generation,2,mass_balance
+443,medium,Why is a purge stream required in recycle systems? (Variant 148),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+444,hard,Which balance must always be satisfied? (Variant 148),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+445,easy,Which term is zero in steady-state mass balance? (Variant 149),Input,Output,Accumulation,Generation,2,mass_balance
+446,medium,Why is a purge stream required in recycle systems? (Variant 149),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+447,hard,Which balance must always be satisfied? (Variant 149),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+448,easy,Which term is zero in steady-state mass balance? (Variant 150),Input,Output,Accumulation,Generation,2,mass_balance
+449,medium,Why is a purge stream required in recycle systems? (Variant 150),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+450,hard,Which balance must always be satisfied? (Variant 150),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+451,easy,Which term is zero in steady-state mass balance? (Variant 151),Input,Output,Accumulation,Generation,2,mass_balance
+452,medium,Why is a purge stream required in recycle systems? (Variant 151),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+453,hard,Which balance must always be satisfied? (Variant 151),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+454,easy,Which term is zero in steady-state mass balance? (Variant 152),Input,Output,Accumulation,Generation,2,mass_balance
+455,medium,Why is a purge stream required in recycle systems? (Variant 152),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+456,hard,Which balance must always be satisfied? (Variant 152),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+457,easy,Which term is zero in steady-state mass balance? (Variant 153),Input,Output,Accumulation,Generation,2,mass_balance
+458,medium,Why is a purge stream required in recycle systems? (Variant 153),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+459,hard,Which balance must always be satisfied? (Variant 153),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+460,easy,Which term is zero in steady-state mass balance? (Variant 154),Input,Output,Accumulation,Generation,2,mass_balance
+461,medium,Why is a purge stream required in recycle systems? (Variant 154),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+462,hard,Which balance must always be satisfied? (Variant 154),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+463,easy,Which term is zero in steady-state mass balance? (Variant 155),Input,Output,Accumulation,Generation,2,mass_balance
+464,medium,Why is a purge stream required in recycle systems? (Variant 155),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+465,hard,Which balance must always be satisfied? (Variant 155),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+466,easy,Which term is zero in steady-state mass balance? (Variant 156),Input,Output,Accumulation,Generation,2,mass_balance
+467,medium,Why is a purge stream required in recycle systems? (Variant 156),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+468,hard,Which balance must always be satisfied? (Variant 156),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+469,easy,Which term is zero in steady-state mass balance? (Variant 157),Input,Output,Accumulation,Generation,2,mass_balance
+470,medium,Why is a purge stream required in recycle systems? (Variant 157),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+471,hard,Which balance must always be satisfied? (Variant 157),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+472,easy,Which term is zero in steady-state mass balance? (Variant 158),Input,Output,Accumulation,Generation,2,mass_balance
+473,medium,Why is a purge stream required in recycle systems? (Variant 158),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+474,hard,Which balance must always be satisfied? (Variant 158),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+475,easy,Which term is zero in steady-state mass balance? (Variant 159),Input,Output,Accumulation,Generation,2,mass_balance
+476,medium,Why is a purge stream required in recycle systems? (Variant 159),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+477,hard,Which balance must always be satisfied? (Variant 159),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+478,easy,Which term is zero in steady-state mass balance? (Variant 160),Input,Output,Accumulation,Generation,2,mass_balance
+479,medium,Why is a purge stream required in recycle systems? (Variant 160),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+480,hard,Which balance must always be satisfied? (Variant 160),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+481,easy,Which term is zero in steady-state mass balance? (Variant 161),Input,Output,Accumulation,Generation,2,mass_balance
+482,medium,Why is a purge stream required in recycle systems? (Variant 161),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+483,hard,Which balance must always be satisfied? (Variant 161),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+484,easy,Which term is zero in steady-state mass balance? (Variant 162),Input,Output,Accumulation,Generation,2,mass_balance
+485,medium,Why is a purge stream required in recycle systems? (Variant 162),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+486,hard,Which balance must always be satisfied? (Variant 162),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+487,easy,Which term is zero in steady-state mass balance? (Variant 163),Input,Output,Accumulation,Generation,2,mass_balance
+488,medium,Why is a purge stream required in recycle systems? (Variant 163),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+489,hard,Which balance must always be satisfied? (Variant 163),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+490,easy,Which term is zero in steady-state mass balance? (Variant 164),Input,Output,Accumulation,Generation,2,mass_balance
+491,medium,Why is a purge stream required in recycle systems? (Variant 164),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+492,hard,Which balance must always be satisfied? (Variant 164),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+493,easy,Which term is zero in steady-state mass balance? (Variant 165),Input,Output,Accumulation,Generation,2,mass_balance
+494,medium,Why is a purge stream required in recycle systems? (Variant 165),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+495,hard,Which balance must always be satisfied? (Variant 165),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+496,easy,Which term is zero in steady-state mass balance? (Variant 166),Input,Output,Accumulation,Generation,2,mass_balance
+497,medium,Why is a purge stream required in recycle systems? (Variant 166),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+498,hard,Which balance must always be satisfied? (Variant 166),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+499,easy,Which term is zero in steady-state mass balance? (Variant 167),Input,Output,Accumulation,Generation,2,mass_balance
+500,medium,Why is a purge stream required in recycle systems? (Variant 167),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+501,hard,Which balance must always be satisfied? (Variant 167),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+502,easy,Which term is zero in steady-state mass balance? (Variant 168),Input,Output,Accumulation,Generation,2,mass_balance
+503,medium,Why is a purge stream required in recycle systems? (Variant 168),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+504,hard,Which balance must always be satisfied? (Variant 168),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+505,easy,Which term is zero in steady-state mass balance? (Variant 169),Input,Output,Accumulation,Generation,2,mass_balance
+506,medium,Why is a purge stream required in recycle systems? (Variant 169),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+507,hard,Which balance must always be satisfied? (Variant 169),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+508,easy,Which term is zero in steady-state mass balance? (Variant 170),Input,Output,Accumulation,Generation,2,mass_balance
+509,medium,Why is a purge stream required in recycle systems? (Variant 170),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+510,hard,Which balance must always be satisfied? (Variant 170),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+511,easy,Which term is zero in steady-state mass balance? (Variant 171),Input,Output,Accumulation,Generation,2,mass_balance
+512,medium,Why is a purge stream required in recycle systems? (Variant 171),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+513,hard,Which balance must always be satisfied? (Variant 171),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+514,easy,Which term is zero in steady-state mass balance? (Variant 172),Input,Output,Accumulation,Generation,2,mass_balance
+515,medium,Why is a purge stream required in recycle systems? (Variant 172),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+516,hard,Which balance must always be satisfied? (Variant 172),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+517,easy,Which term is zero in steady-state mass balance? (Variant 173),Input,Output,Accumulation,Generation,2,mass_balance
+518,medium,Why is a purge stream required in recycle systems? (Variant 173),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+519,hard,Which balance must always be satisfied? (Variant 173),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+520,easy,Which term is zero in steady-state mass balance? (Variant 174),Input,Output,Accumulation,Generation,2,mass_balance
+521,medium,Why is a purge stream required in recycle systems? (Variant 174),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+522,hard,Which balance must always be satisfied? (Variant 174),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+523,easy,Which term is zero in steady-state mass balance? (Variant 175),Input,Output,Accumulation,Generation,2,mass_balance
+524,medium,Why is a purge stream required in recycle systems? (Variant 175),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+525,hard,Which balance must always be satisfied? (Variant 175),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+526,easy,Which term is zero in steady-state mass balance? (Variant 176),Input,Output,Accumulation,Generation,2,mass_balance
+527,medium,Why is a purge stream required in recycle systems? (Variant 176),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+528,hard,Which balance must always be satisfied? (Variant 176),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+529,easy,Which term is zero in steady-state mass balance? (Variant 177),Input,Output,Accumulation,Generation,2,mass_balance
+530,medium,Why is a purge stream required in recycle systems? (Variant 177),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+531,hard,Which balance must always be satisfied? (Variant 177),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+532,easy,Which term is zero in steady-state mass balance? (Variant 178),Input,Output,Accumulation,Generation,2,mass_balance
+533,medium,Why is a purge stream required in recycle systems? (Variant 178),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+534,hard,Which balance must always be satisfied? (Variant 178),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+535,easy,Which term is zero in steady-state mass balance? (Variant 179),Input,Output,Accumulation,Generation,2,mass_balance
+536,medium,Why is a purge stream required in recycle systems? (Variant 179),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+537,hard,Which balance must always be satisfied? (Variant 179),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+538,easy,Which term is zero in steady-state mass balance? (Variant 180),Input,Output,Accumulation,Generation,2,mass_balance
+539,medium,Why is a purge stream required in recycle systems? (Variant 180),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+540,hard,Which balance must always be satisfied? (Variant 180),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+541,easy,Which term is zero in steady-state mass balance? (Variant 181),Input,Output,Accumulation,Generation,2,mass_balance
+542,medium,Why is a purge stream required in recycle systems? (Variant 181),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+543,hard,Which balance must always be satisfied? (Variant 181),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+544,easy,Which term is zero in steady-state mass balance? (Variant 182),Input,Output,Accumulation,Generation,2,mass_balance
+545,medium,Why is a purge stream required in recycle systems? (Variant 182),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+546,hard,Which balance must always be satisfied? (Variant 182),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+547,easy,Which term is zero in steady-state mass balance? (Variant 183),Input,Output,Accumulation,Generation,2,mass_balance
+548,medium,Why is a purge stream required in recycle systems? (Variant 183),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+549,hard,Which balance must always be satisfied? (Variant 183),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+550,easy,Which term is zero in steady-state mass balance? (Variant 184),Input,Output,Accumulation,Generation,2,mass_balance
+551,medium,Why is a purge stream required in recycle systems? (Variant 184),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+552,hard,Which balance must always be satisfied? (Variant 184),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+553,easy,Which term is zero in steady-state mass balance? (Variant 185),Input,Output,Accumulation,Generation,2,mass_balance
+554,medium,Why is a purge stream required in recycle systems? (Variant 185),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+555,hard,Which balance must always be satisfied? (Variant 185),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+556,easy,Which term is zero in steady-state mass balance? (Variant 186),Input,Output,Accumulation,Generation,2,mass_balance
+557,medium,Why is a purge stream required in recycle systems? (Variant 186),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+558,hard,Which balance must always be satisfied? (Variant 186),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+559,easy,Which term is zero in steady-state mass balance? (Variant 187),Input,Output,Accumulation,Generation,2,mass_balance
+560,medium,Why is a purge stream required in recycle systems? (Variant 187),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+561,hard,Which balance must always be satisfied? (Variant 187),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+562,easy,Which term is zero in steady-state mass balance? (Variant 188),Input,Output,Accumulation,Generation,2,mass_balance
+563,medium,Why is a purge stream required in recycle systems? (Variant 188),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+564,hard,Which balance must always be satisfied? (Variant 188),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+565,easy,Which term is zero in steady-state mass balance? (Variant 189),Input,Output,Accumulation,Generation,2,mass_balance
+566,medium,Why is a purge stream required in recycle systems? (Variant 189),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+567,hard,Which balance must always be satisfied? (Variant 189),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+568,easy,Which term is zero in steady-state mass balance? (Variant 190),Input,Output,Accumulation,Generation,2,mass_balance
+569,medium,Why is a purge stream required in recycle systems? (Variant 190),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+570,hard,Which balance must always be satisfied? (Variant 190),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+571,easy,Which term is zero in steady-state mass balance? (Variant 191),Input,Output,Accumulation,Generation,2,mass_balance
+572,medium,Why is a purge stream required in recycle systems? (Variant 191),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+573,hard,Which balance must always be satisfied? (Variant 191),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+574,easy,Which term is zero in steady-state mass balance? (Variant 192),Input,Output,Accumulation,Generation,2,mass_balance
+575,medium,Why is a purge stream required in recycle systems? (Variant 192),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+576,hard,Which balance must always be satisfied? (Variant 192),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+577,easy,Which term is zero in steady-state mass balance? (Variant 193),Input,Output,Accumulation,Generation,2,mass_balance
+578,medium,Why is a purge stream required in recycle systems? (Variant 193),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+579,hard,Which balance must always be satisfied? (Variant 193),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+580,easy,Which term is zero in steady-state mass balance? (Variant 194),Input,Output,Accumulation,Generation,2,mass_balance
+581,medium,Why is a purge stream required in recycle systems? (Variant 194),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+582,hard,Which balance must always be satisfied? (Variant 194),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+583,easy,Which term is zero in steady-state mass balance? (Variant 195),Input,Output,Accumulation,Generation,2,mass_balance
+584,medium,Why is a purge stream required in recycle systems? (Variant 195),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+585,hard,Which balance must always be satisfied? (Variant 195),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+586,easy,Which term is zero in steady-state mass balance? (Variant 196),Input,Output,Accumulation,Generation,2,mass_balance
+587,medium,Why is a purge stream required in recycle systems? (Variant 196),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+588,hard,Which balance must always be satisfied? (Variant 196),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+589,easy,Which term is zero in steady-state mass balance? (Variant 197),Input,Output,Accumulation,Generation,2,mass_balance
+590,medium,Why is a purge stream required in recycle systems? (Variant 197),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+591,hard,Which balance must always be satisfied? (Variant 197),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+592,easy,Which term is zero in steady-state mass balance? (Variant 198),Input,Output,Accumulation,Generation,2,mass_balance
+593,medium,Why is a purge stream required in recycle systems? (Variant 198),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+594,hard,Which balance must always be satisfied? (Variant 198),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+595,easy,Which term is zero in steady-state mass balance? (Variant 199),Input,Output,Accumulation,Generation,2,mass_balance
+596,medium,Why is a purge stream required in recycle systems? (Variant 199),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+597,hard,Which balance must always be satisfied? (Variant 199),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+598,easy,Which term is zero in steady-state mass balance? (Variant 200),Input,Output,Accumulation,Generation,2,mass_balance
+599,medium,Why is a purge stream required in recycle systems? (Variant 200),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+600,hard,Which balance must always be satisfied? (Variant 200),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+601,easy,Which term is zero in steady-state mass balance? (Variant 201),Input,Output,Accumulation,Generation,2,mass_balance
+602,medium,Why is a purge stream required in recycle systems? (Variant 201),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+603,hard,Which balance must always be satisfied? (Variant 201),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+604,easy,Which term is zero in steady-state mass balance? (Variant 202),Input,Output,Accumulation,Generation,2,mass_balance
+605,medium,Why is a purge stream required in recycle systems? (Variant 202),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+606,hard,Which balance must always be satisfied? (Variant 202),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+607,easy,Which term is zero in steady-state mass balance? (Variant 203),Input,Output,Accumulation,Generation,2,mass_balance
+608,medium,Why is a purge stream required in recycle systems? (Variant 203),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+609,hard,Which balance must always be satisfied? (Variant 203),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+610,easy,Which term is zero in steady-state mass balance? (Variant 204),Input,Output,Accumulation,Generation,2,mass_balance
+611,medium,Why is a purge stream required in recycle systems? (Variant 204),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+612,hard,Which balance must always be satisfied? (Variant 204),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+613,easy,Which term is zero in steady-state mass balance? (Variant 205),Input,Output,Accumulation,Generation,2,mass_balance
+614,medium,Why is a purge stream required in recycle systems? (Variant 205),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+615,hard,Which balance must always be satisfied? (Variant 205),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+616,easy,Which term is zero in steady-state mass balance? (Variant 206),Input,Output,Accumulation,Generation,2,mass_balance
+617,medium,Why is a purge stream required in recycle systems? (Variant 206),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+618,hard,Which balance must always be satisfied? (Variant 206),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+619,easy,Which term is zero in steady-state mass balance? (Variant 207),Input,Output,Accumulation,Generation,2,mass_balance
+620,medium,Why is a purge stream required in recycle systems? (Variant 207),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+621,hard,Which balance must always be satisfied? (Variant 207),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+622,easy,Which term is zero in steady-state mass balance? (Variant 208),Input,Output,Accumulation,Generation,2,mass_balance
+623,medium,Why is a purge stream required in recycle systems? (Variant 208),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+624,hard,Which balance must always be satisfied? (Variant 208),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+625,easy,Which term is zero in steady-state mass balance? (Variant 209),Input,Output,Accumulation,Generation,2,mass_balance
+626,medium,Why is a purge stream required in recycle systems? (Variant 209),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+627,hard,Which balance must always be satisfied? (Variant 209),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+628,easy,Which term is zero in steady-state mass balance? (Variant 210),Input,Output,Accumulation,Generation,2,mass_balance
+629,medium,Why is a purge stream required in recycle systems? (Variant 210),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+630,hard,Which balance must always be satisfied? (Variant 210),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+631,easy,Which term is zero in steady-state mass balance? (Variant 211),Input,Output,Accumulation,Generation,2,mass_balance
+632,medium,Why is a purge stream required in recycle systems? (Variant 211),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+633,hard,Which balance must always be satisfied? (Variant 211),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+634,easy,Which term is zero in steady-state mass balance? (Variant 212),Input,Output,Accumulation,Generation,2,mass_balance
+635,medium,Why is a purge stream required in recycle systems? (Variant 212),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+636,hard,Which balance must always be satisfied? (Variant 212),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+637,easy,Which term is zero in steady-state mass balance? (Variant 213),Input,Output,Accumulation,Generation,2,mass_balance
+638,medium,Why is a purge stream required in recycle systems? (Variant 213),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+639,hard,Which balance must always be satisfied? (Variant 213),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+640,easy,Which term is zero in steady-state mass balance? (Variant 214),Input,Output,Accumulation,Generation,2,mass_balance
+641,medium,Why is a purge stream required in recycle systems? (Variant 214),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+642,hard,Which balance must always be satisfied? (Variant 214),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+643,easy,Which term is zero in steady-state mass balance? (Variant 215),Input,Output,Accumulation,Generation,2,mass_balance
+644,medium,Why is a purge stream required in recycle systems? (Variant 215),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+645,hard,Which balance must always be satisfied? (Variant 215),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+646,easy,Which term is zero in steady-state mass balance? (Variant 216),Input,Output,Accumulation,Generation,2,mass_balance
+647,medium,Why is a purge stream required in recycle systems? (Variant 216),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+648,hard,Which balance must always be satisfied? (Variant 216),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+649,easy,Which term is zero in steady-state mass balance? (Variant 217),Input,Output,Accumulation,Generation,2,mass_balance
+650,medium,Why is a purge stream required in recycle systems? (Variant 217),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+651,hard,Which balance must always be satisfied? (Variant 217),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+652,easy,Which term is zero in steady-state mass balance? (Variant 218),Input,Output,Accumulation,Generation,2,mass_balance
+653,medium,Why is a purge stream required in recycle systems? (Variant 218),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+654,hard,Which balance must always be satisfied? (Variant 218),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+655,easy,Which term is zero in steady-state mass balance? (Variant 219),Input,Output,Accumulation,Generation,2,mass_balance
+656,medium,Why is a purge stream required in recycle systems? (Variant 219),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+657,hard,Which balance must always be satisfied? (Variant 219),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+658,easy,Which term is zero in steady-state mass balance? (Variant 220),Input,Output,Accumulation,Generation,2,mass_balance
+659,medium,Why is a purge stream required in recycle systems? (Variant 220),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+660,hard,Which balance must always be satisfied? (Variant 220),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+661,easy,Which term is zero in steady-state mass balance? (Variant 221),Input,Output,Accumulation,Generation,2,mass_balance
+662,medium,Why is a purge stream required in recycle systems? (Variant 221),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+663,hard,Which balance must always be satisfied? (Variant 221),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+664,easy,Which term is zero in steady-state mass balance? (Variant 222),Input,Output,Accumulation,Generation,2,mass_balance
+665,medium,Why is a purge stream required in recycle systems? (Variant 222),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+666,hard,Which balance must always be satisfied? (Variant 222),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+667,easy,Which term is zero in steady-state mass balance? (Variant 223),Input,Output,Accumulation,Generation,2,mass_balance
+668,medium,Why is a purge stream required in recycle systems? (Variant 223),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+669,hard,Which balance must always be satisfied? (Variant 223),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+670,easy,Which term is zero in steady-state mass balance? (Variant 224),Input,Output,Accumulation,Generation,2,mass_balance
+671,medium,Why is a purge stream required in recycle systems? (Variant 224),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+672,hard,Which balance must always be satisfied? (Variant 224),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+673,easy,Which term is zero in steady-state mass balance? (Variant 225),Input,Output,Accumulation,Generation,2,mass_balance
+674,medium,Why is a purge stream required in recycle systems? (Variant 225),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+675,hard,Which balance must always be satisfied? (Variant 225),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+676,easy,Which term is zero in steady-state mass balance? (Variant 226),Input,Output,Accumulation,Generation,2,mass_balance
+677,medium,Why is a purge stream required in recycle systems? (Variant 226),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+678,hard,Which balance must always be satisfied? (Variant 226),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+679,easy,Which term is zero in steady-state mass balance? (Variant 227),Input,Output,Accumulation,Generation,2,mass_balance
+680,medium,Why is a purge stream required in recycle systems? (Variant 227),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+681,hard,Which balance must always be satisfied? (Variant 227),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+682,easy,Which term is zero in steady-state mass balance? (Variant 228),Input,Output,Accumulation,Generation,2,mass_balance
+683,medium,Why is a purge stream required in recycle systems? (Variant 228),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+684,hard,Which balance must always be satisfied? (Variant 228),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+685,easy,Which term is zero in steady-state mass balance? (Variant 229),Input,Output,Accumulation,Generation,2,mass_balance
+686,medium,Why is a purge stream required in recycle systems? (Variant 229),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+687,hard,Which balance must always be satisfied? (Variant 229),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+688,easy,Which term is zero in steady-state mass balance? (Variant 230),Input,Output,Accumulation,Generation,2,mass_balance
+689,medium,Why is a purge stream required in recycle systems? (Variant 230),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+690,hard,Which balance must always be satisfied? (Variant 230),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+691,easy,Which term is zero in steady-state mass balance? (Variant 231),Input,Output,Accumulation,Generation,2,mass_balance
+692,medium,Why is a purge stream required in recycle systems? (Variant 231),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+693,hard,Which balance must always be satisfied? (Variant 231),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+694,easy,Which term is zero in steady-state mass balance? (Variant 232),Input,Output,Accumulation,Generation,2,mass_balance
+695,medium,Why is a purge stream required in recycle systems? (Variant 232),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+696,hard,Which balance must always be satisfied? (Variant 232),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+697,easy,Which term is zero in steady-state mass balance? (Variant 233),Input,Output,Accumulation,Generation,2,mass_balance
+698,medium,Why is a purge stream required in recycle systems? (Variant 233),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+699,hard,Which balance must always be satisfied? (Variant 233),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+700,easy,Which term is zero in steady-state mass balance? (Variant 234),Input,Output,Accumulation,Generation,2,mass_balance
+701,medium,Why is a purge stream required in recycle systems? (Variant 234),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+702,hard,Which balance must always be satisfied? (Variant 234),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+703,easy,Which term is zero in steady-state mass balance? (Variant 235),Input,Output,Accumulation,Generation,2,mass_balance
+704,medium,Why is a purge stream required in recycle systems? (Variant 235),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+705,hard,Which balance must always be satisfied? (Variant 235),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+706,easy,Which term is zero in steady-state mass balance? (Variant 236),Input,Output,Accumulation,Generation,2,mass_balance
+707,medium,Why is a purge stream required in recycle systems? (Variant 236),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+708,hard,Which balance must always be satisfied? (Variant 236),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+709,easy,Which term is zero in steady-state mass balance? (Variant 237),Input,Output,Accumulation,Generation,2,mass_balance
+710,medium,Why is a purge stream required in recycle systems? (Variant 237),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+711,hard,Which balance must always be satisfied? (Variant 237),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+712,easy,Which term is zero in steady-state mass balance? (Variant 238),Input,Output,Accumulation,Generation,2,mass_balance
+713,medium,Why is a purge stream required in recycle systems? (Variant 238),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+714,hard,Which balance must always be satisfied? (Variant 238),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+715,easy,Which term is zero in steady-state mass balance? (Variant 239),Input,Output,Accumulation,Generation,2,mass_balance
+716,medium,Why is a purge stream required in recycle systems? (Variant 239),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+717,hard,Which balance must always be satisfied? (Variant 239),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+718,easy,Which term is zero in steady-state mass balance? (Variant 240),Input,Output,Accumulation,Generation,2,mass_balance
+719,medium,Why is a purge stream required in recycle systems? (Variant 240),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+720,hard,Which balance must always be satisfied? (Variant 240),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+721,easy,Which term is zero in steady-state mass balance? (Variant 241),Input,Output,Accumulation,Generation,2,mass_balance
+722,medium,Why is a purge stream required in recycle systems? (Variant 241),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+723,hard,Which balance must always be satisfied? (Variant 241),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+724,easy,Which term is zero in steady-state mass balance? (Variant 242),Input,Output,Accumulation,Generation,2,mass_balance
+725,medium,Why is a purge stream required in recycle systems? (Variant 242),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+726,hard,Which balance must always be satisfied? (Variant 242),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+727,easy,Which term is zero in steady-state mass balance? (Variant 243),Input,Output,Accumulation,Generation,2,mass_balance
+728,medium,Why is a purge stream required in recycle systems? (Variant 243),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+729,hard,Which balance must always be satisfied? (Variant 243),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+730,easy,Which term is zero in steady-state mass balance? (Variant 244),Input,Output,Accumulation,Generation,2,mass_balance
+731,medium,Why is a purge stream required in recycle systems? (Variant 244),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+732,hard,Which balance must always be satisfied? (Variant 244),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+733,easy,Which term is zero in steady-state mass balance? (Variant 245),Input,Output,Accumulation,Generation,2,mass_balance
+734,medium,Why is a purge stream required in recycle systems? (Variant 245),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+735,hard,Which balance must always be satisfied? (Variant 245),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+736,easy,Which term is zero in steady-state mass balance? (Variant 246),Input,Output,Accumulation,Generation,2,mass_balance
+737,medium,Why is a purge stream required in recycle systems? (Variant 246),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+738,hard,Which balance must always be satisfied? (Variant 246),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+739,easy,Which term is zero in steady-state mass balance? (Variant 247),Input,Output,Accumulation,Generation,2,mass_balance
+740,medium,Why is a purge stream required in recycle systems? (Variant 247),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+741,hard,Which balance must always be satisfied? (Variant 247),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+742,easy,Which term is zero in steady-state mass balance? (Variant 248),Input,Output,Accumulation,Generation,2,mass_balance
+743,medium,Why is a purge stream required in recycle systems? (Variant 248),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+744,hard,Which balance must always be satisfied? (Variant 248),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+745,easy,Which term is zero in steady-state mass balance? (Variant 249),Input,Output,Accumulation,Generation,2,mass_balance
+746,medium,Why is a purge stream required in recycle systems? (Variant 249),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+747,hard,Which balance must always be satisfied? (Variant 249),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+748,easy,Which term is zero in steady-state mass balance? (Variant 250),Input,Output,Accumulation,Generation,2,mass_balance
+749,medium,Why is a purge stream required in recycle systems? (Variant 250),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+750,hard,Which balance must always be satisfied? (Variant 250),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+751,easy,Which term is zero in steady-state mass balance? (Variant 251),Input,Output,Accumulation,Generation,2,mass_balance
+752,medium,Why is a purge stream required in recycle systems? (Variant 251),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+753,hard,Which balance must always be satisfied? (Variant 251),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+754,easy,Which term is zero in steady-state mass balance? (Variant 252),Input,Output,Accumulation,Generation,2,mass_balance
+755,medium,Why is a purge stream required in recycle systems? (Variant 252),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+756,hard,Which balance must always be satisfied? (Variant 252),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+757,easy,Which term is zero in steady-state mass balance? (Variant 253),Input,Output,Accumulation,Generation,2,mass_balance
+758,medium,Why is a purge stream required in recycle systems? (Variant 253),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+759,hard,Which balance must always be satisfied? (Variant 253),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+760,easy,Which term is zero in steady-state mass balance? (Variant 254),Input,Output,Accumulation,Generation,2,mass_balance
+761,medium,Why is a purge stream required in recycle systems? (Variant 254),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+762,hard,Which balance must always be satisfied? (Variant 254),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+763,easy,Which term is zero in steady-state mass balance? (Variant 255),Input,Output,Accumulation,Generation,2,mass_balance
+764,medium,Why is a purge stream required in recycle systems? (Variant 255),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+765,hard,Which balance must always be satisfied? (Variant 255),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+766,easy,Which term is zero in steady-state mass balance? (Variant 256),Input,Output,Accumulation,Generation,2,mass_balance
+767,medium,Why is a purge stream required in recycle systems? (Variant 256),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+768,hard,Which balance must always be satisfied? (Variant 256),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+769,easy,Which term is zero in steady-state mass balance? (Variant 257),Input,Output,Accumulation,Generation,2,mass_balance
+770,medium,Why is a purge stream required in recycle systems? (Variant 257),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+771,hard,Which balance must always be satisfied? (Variant 257),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+772,easy,Which term is zero in steady-state mass balance? (Variant 258),Input,Output,Accumulation,Generation,2,mass_balance
+773,medium,Why is a purge stream required in recycle systems? (Variant 258),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+774,hard,Which balance must always be satisfied? (Variant 258),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+775,easy,Which term is zero in steady-state mass balance? (Variant 259),Input,Output,Accumulation,Generation,2,mass_balance
+776,medium,Why is a purge stream required in recycle systems? (Variant 259),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+777,hard,Which balance must always be satisfied? (Variant 259),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+778,easy,Which term is zero in steady-state mass balance? (Variant 260),Input,Output,Accumulation,Generation,2,mass_balance
+779,medium,Why is a purge stream required in recycle systems? (Variant 260),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+780,hard,Which balance must always be satisfied? (Variant 260),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+781,easy,Which term is zero in steady-state mass balance? (Variant 261),Input,Output,Accumulation,Generation,2,mass_balance
+782,medium,Why is a purge stream required in recycle systems? (Variant 261),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+783,hard,Which balance must always be satisfied? (Variant 261),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+784,easy,Which term is zero in steady-state mass balance? (Variant 262),Input,Output,Accumulation,Generation,2,mass_balance
+785,medium,Why is a purge stream required in recycle systems? (Variant 262),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+786,hard,Which balance must always be satisfied? (Variant 262),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+787,easy,Which term is zero in steady-state mass balance? (Variant 263),Input,Output,Accumulation,Generation,2,mass_balance
+788,medium,Why is a purge stream required in recycle systems? (Variant 263),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+789,hard,Which balance must always be satisfied? (Variant 263),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+790,easy,Which term is zero in steady-state mass balance? (Variant 264),Input,Output,Accumulation,Generation,2,mass_balance
+791,medium,Why is a purge stream required in recycle systems? (Variant 264),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+792,hard,Which balance must always be satisfied? (Variant 264),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+793,easy,Which term is zero in steady-state mass balance? (Variant 265),Input,Output,Accumulation,Generation,2,mass_balance
+794,medium,Why is a purge stream required in recycle systems? (Variant 265),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+795,hard,Which balance must always be satisfied? (Variant 265),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+796,easy,Which term is zero in steady-state mass balance? (Variant 266),Input,Output,Accumulation,Generation,2,mass_balance
+797,medium,Why is a purge stream required in recycle systems? (Variant 266),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+798,hard,Which balance must always be satisfied? (Variant 266),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+799,easy,Which term is zero in steady-state mass balance? (Variant 267),Input,Output,Accumulation,Generation,2,mass_balance
+800,medium,Why is a purge stream required in recycle systems? (Variant 267),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+801,hard,Which balance must always be satisfied? (Variant 267),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+802,easy,Which term is zero in steady-state mass balance? (Variant 268),Input,Output,Accumulation,Generation,2,mass_balance
+803,medium,Why is a purge stream required in recycle systems? (Variant 268),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+804,hard,Which balance must always be satisfied? (Variant 268),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+805,easy,Which term is zero in steady-state mass balance? (Variant 269),Input,Output,Accumulation,Generation,2,mass_balance
+806,medium,Why is a purge stream required in recycle systems? (Variant 269),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+807,hard,Which balance must always be satisfied? (Variant 269),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+808,easy,Which term is zero in steady-state mass balance? (Variant 270),Input,Output,Accumulation,Generation,2,mass_balance
+809,medium,Why is a purge stream required in recycle systems? (Variant 270),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+810,hard,Which balance must always be satisfied? (Variant 270),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+811,easy,Which term is zero in steady-state mass balance? (Variant 271),Input,Output,Accumulation,Generation,2,mass_balance
+812,medium,Why is a purge stream required in recycle systems? (Variant 271),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+813,hard,Which balance must always be satisfied? (Variant 271),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+814,easy,Which term is zero in steady-state mass balance? (Variant 272),Input,Output,Accumulation,Generation,2,mass_balance
+815,medium,Why is a purge stream required in recycle systems? (Variant 272),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+816,hard,Which balance must always be satisfied? (Variant 272),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+817,easy,Which term is zero in steady-state mass balance? (Variant 273),Input,Output,Accumulation,Generation,2,mass_balance
+818,medium,Why is a purge stream required in recycle systems? (Variant 273),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+819,hard,Which balance must always be satisfied? (Variant 273),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+820,easy,Which term is zero in steady-state mass balance? (Variant 274),Input,Output,Accumulation,Generation,2,mass_balance
+821,medium,Why is a purge stream required in recycle systems? (Variant 274),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+822,hard,Which balance must always be satisfied? (Variant 274),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+823,easy,Which term is zero in steady-state mass balance? (Variant 275),Input,Output,Accumulation,Generation,2,mass_balance
+824,medium,Why is a purge stream required in recycle systems? (Variant 275),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+825,hard,Which balance must always be satisfied? (Variant 275),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+826,easy,Which term is zero in steady-state mass balance? (Variant 276),Input,Output,Accumulation,Generation,2,mass_balance
+827,medium,Why is a purge stream required in recycle systems? (Variant 276),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+828,hard,Which balance must always be satisfied? (Variant 276),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+829,easy,Which term is zero in steady-state mass balance? (Variant 277),Input,Output,Accumulation,Generation,2,mass_balance
+830,medium,Why is a purge stream required in recycle systems? (Variant 277),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+831,hard,Which balance must always be satisfied? (Variant 277),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+832,easy,Which term is zero in steady-state mass balance? (Variant 278),Input,Output,Accumulation,Generation,2,mass_balance
+833,medium,Why is a purge stream required in recycle systems? (Variant 278),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+834,hard,Which balance must always be satisfied? (Variant 278),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+835,easy,Which term is zero in steady-state mass balance? (Variant 279),Input,Output,Accumulation,Generation,2,mass_balance
+836,medium,Why is a purge stream required in recycle systems? (Variant 279),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+837,hard,Which balance must always be satisfied? (Variant 279),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+838,easy,Which term is zero in steady-state mass balance? (Variant 280),Input,Output,Accumulation,Generation,2,mass_balance
+839,medium,Why is a purge stream required in recycle systems? (Variant 280),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+840,hard,Which balance must always be satisfied? (Variant 280),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+841,easy,Which term is zero in steady-state mass balance? (Variant 281),Input,Output,Accumulation,Generation,2,mass_balance
+842,medium,Why is a purge stream required in recycle systems? (Variant 281),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+843,hard,Which balance must always be satisfied? (Variant 281),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+844,easy,Which term is zero in steady-state mass balance? (Variant 282),Input,Output,Accumulation,Generation,2,mass_balance
+845,medium,Why is a purge stream required in recycle systems? (Variant 282),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+846,hard,Which balance must always be satisfied? (Variant 282),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+847,easy,Which term is zero in steady-state mass balance? (Variant 283),Input,Output,Accumulation,Generation,2,mass_balance
+848,medium,Why is a purge stream required in recycle systems? (Variant 283),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+849,hard,Which balance must always be satisfied? (Variant 283),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+850,easy,Which term is zero in steady-state mass balance? (Variant 284),Input,Output,Accumulation,Generation,2,mass_balance
+851,medium,Why is a purge stream required in recycle systems? (Variant 284),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+852,hard,Which balance must always be satisfied? (Variant 284),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+853,easy,Which term is zero in steady-state mass balance? (Variant 285),Input,Output,Accumulation,Generation,2,mass_balance
+854,medium,Why is a purge stream required in recycle systems? (Variant 285),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+855,hard,Which balance must always be satisfied? (Variant 285),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+856,easy,Which term is zero in steady-state mass balance? (Variant 286),Input,Output,Accumulation,Generation,2,mass_balance
+857,medium,Why is a purge stream required in recycle systems? (Variant 286),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+858,hard,Which balance must always be satisfied? (Variant 286),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+859,easy,Which term is zero in steady-state mass balance? (Variant 287),Input,Output,Accumulation,Generation,2,mass_balance
+860,medium,Why is a purge stream required in recycle systems? (Variant 287),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+861,hard,Which balance must always be satisfied? (Variant 287),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+862,easy,Which term is zero in steady-state mass balance? (Variant 288),Input,Output,Accumulation,Generation,2,mass_balance
+863,medium,Why is a purge stream required in recycle systems? (Variant 288),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+864,hard,Which balance must always be satisfied? (Variant 288),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+865,easy,Which term is zero in steady-state mass balance? (Variant 289),Input,Output,Accumulation,Generation,2,mass_balance
+866,medium,Why is a purge stream required in recycle systems? (Variant 289),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+867,hard,Which balance must always be satisfied? (Variant 289),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+868,easy,Which term is zero in steady-state mass balance? (Variant 290),Input,Output,Accumulation,Generation,2,mass_balance
+869,medium,Why is a purge stream required in recycle systems? (Variant 290),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+870,hard,Which balance must always be satisfied? (Variant 290),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+871,easy,Which term is zero in steady-state mass balance? (Variant 291),Input,Output,Accumulation,Generation,2,mass_balance
+872,medium,Why is a purge stream required in recycle systems? (Variant 291),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+873,hard,Which balance must always be satisfied? (Variant 291),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+874,easy,Which term is zero in steady-state mass balance? (Variant 292),Input,Output,Accumulation,Generation,2,mass_balance
+875,medium,Why is a purge stream required in recycle systems? (Variant 292),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+876,hard,Which balance must always be satisfied? (Variant 292),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+877,easy,Which term is zero in steady-state mass balance? (Variant 293),Input,Output,Accumulation,Generation,2,mass_balance
+878,medium,Why is a purge stream required in recycle systems? (Variant 293),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+879,hard,Which balance must always be satisfied? (Variant 293),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+880,easy,Which term is zero in steady-state mass balance? (Variant 294),Input,Output,Accumulation,Generation,2,mass_balance
+881,medium,Why is a purge stream required in recycle systems? (Variant 294),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+882,hard,Which balance must always be satisfied? (Variant 294),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+883,easy,Which term is zero in steady-state mass balance? (Variant 295),Input,Output,Accumulation,Generation,2,mass_balance
+884,medium,Why is a purge stream required in recycle systems? (Variant 295),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+885,hard,Which balance must always be satisfied? (Variant 295),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+886,easy,Which term is zero in steady-state mass balance? (Variant 296),Input,Output,Accumulation,Generation,2,mass_balance
+887,medium,Why is a purge stream required in recycle systems? (Variant 296),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+888,hard,Which balance must always be satisfied? (Variant 296),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+889,easy,Which term is zero in steady-state mass balance? (Variant 297),Input,Output,Accumulation,Generation,2,mass_balance
+890,medium,Why is a purge stream required in recycle systems? (Variant 297),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+891,hard,Which balance must always be satisfied? (Variant 297),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+892,easy,Which term is zero in steady-state mass balance? (Variant 298),Input,Output,Accumulation,Generation,2,mass_balance
+893,medium,Why is a purge stream required in recycle systems? (Variant 298),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+894,hard,Which balance must always be satisfied? (Variant 298),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+895,easy,Which term is zero in steady-state mass balance? (Variant 299),Input,Output,Accumulation,Generation,2,mass_balance
+896,medium,Why is a purge stream required in recycle systems? (Variant 299),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+897,hard,Which balance must always be satisfied? (Variant 299),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+898,easy,Which term is zero in steady-state mass balance? (Variant 300),Input,Output,Accumulation,Generation,2,mass_balance
+899,medium,Why is a purge stream required in recycle systems? (Variant 300),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+900,hard,Which balance must always be satisfied? (Variant 300),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+901,easy,Which term is zero in steady-state mass balance? (Variant 301),Input,Output,Accumulation,Generation,2,mass_balance
+902,medium,Why is a purge stream required in recycle systems? (Variant 301),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+903,hard,Which balance must always be satisfied? (Variant 301),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+904,easy,Which term is zero in steady-state mass balance? (Variant 302),Input,Output,Accumulation,Generation,2,mass_balance
+905,medium,Why is a purge stream required in recycle systems? (Variant 302),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+906,hard,Which balance must always be satisfied? (Variant 302),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+907,easy,Which term is zero in steady-state mass balance? (Variant 303),Input,Output,Accumulation,Generation,2,mass_balance
+908,medium,Why is a purge stream required in recycle systems? (Variant 303),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+909,hard,Which balance must always be satisfied? (Variant 303),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+910,easy,Which term is zero in steady-state mass balance? (Variant 304),Input,Output,Accumulation,Generation,2,mass_balance
+911,medium,Why is a purge stream required in recycle systems? (Variant 304),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+912,hard,Which balance must always be satisfied? (Variant 304),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+913,easy,Which term is zero in steady-state mass balance? (Variant 305),Input,Output,Accumulation,Generation,2,mass_balance
+914,medium,Why is a purge stream required in recycle systems? (Variant 305),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+915,hard,Which balance must always be satisfied? (Variant 305),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+916,easy,Which term is zero in steady-state mass balance? (Variant 306),Input,Output,Accumulation,Generation,2,mass_balance
+917,medium,Why is a purge stream required in recycle systems? (Variant 306),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+918,hard,Which balance must always be satisfied? (Variant 306),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+919,easy,Which term is zero in steady-state mass balance? (Variant 307),Input,Output,Accumulation,Generation,2,mass_balance
+920,medium,Why is a purge stream required in recycle systems? (Variant 307),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+921,hard,Which balance must always be satisfied? (Variant 307),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+922,easy,Which term is zero in steady-state mass balance? (Variant 308),Input,Output,Accumulation,Generation,2,mass_balance
+923,medium,Why is a purge stream required in recycle systems? (Variant 308),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+924,hard,Which balance must always be satisfied? (Variant 308),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+925,easy,Which term is zero in steady-state mass balance? (Variant 309),Input,Output,Accumulation,Generation,2,mass_balance
+926,medium,Why is a purge stream required in recycle systems? (Variant 309),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+927,hard,Which balance must always be satisfied? (Variant 309),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+928,easy,Which term is zero in steady-state mass balance? (Variant 310),Input,Output,Accumulation,Generation,2,mass_balance
+929,medium,Why is a purge stream required in recycle systems? (Variant 310),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+930,hard,Which balance must always be satisfied? (Variant 310),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+931,easy,Which term is zero in steady-state mass balance? (Variant 311),Input,Output,Accumulation,Generation,2,mass_balance
+932,medium,Why is a purge stream required in recycle systems? (Variant 311),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+933,hard,Which balance must always be satisfied? (Variant 311),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+934,easy,Which term is zero in steady-state mass balance? (Variant 312),Input,Output,Accumulation,Generation,2,mass_balance
+935,medium,Why is a purge stream required in recycle systems? (Variant 312),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+936,hard,Which balance must always be satisfied? (Variant 312),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+937,easy,Which term is zero in steady-state mass balance? (Variant 313),Input,Output,Accumulation,Generation,2,mass_balance
+938,medium,Why is a purge stream required in recycle systems? (Variant 313),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+939,hard,Which balance must always be satisfied? (Variant 313),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+940,easy,Which term is zero in steady-state mass balance? (Variant 314),Input,Output,Accumulation,Generation,2,mass_balance
+941,medium,Why is a purge stream required in recycle systems? (Variant 314),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+942,hard,Which balance must always be satisfied? (Variant 314),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+943,easy,Which term is zero in steady-state mass balance? (Variant 315),Input,Output,Accumulation,Generation,2,mass_balance
+944,medium,Why is a purge stream required in recycle systems? (Variant 315),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+945,hard,Which balance must always be satisfied? (Variant 315),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+946,easy,Which term is zero in steady-state mass balance? (Variant 316),Input,Output,Accumulation,Generation,2,mass_balance
+947,medium,Why is a purge stream required in recycle systems? (Variant 316),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+948,hard,Which balance must always be satisfied? (Variant 316),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+949,easy,Which term is zero in steady-state mass balance? (Variant 317),Input,Output,Accumulation,Generation,2,mass_balance
+950,medium,Why is a purge stream required in recycle systems? (Variant 317),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+951,hard,Which balance must always be satisfied? (Variant 317),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+952,easy,Which term is zero in steady-state mass balance? (Variant 318),Input,Output,Accumulation,Generation,2,mass_balance
+953,medium,Why is a purge stream required in recycle systems? (Variant 318),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+954,hard,Which balance must always be satisfied? (Variant 318),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+955,easy,Which term is zero in steady-state mass balance? (Variant 319),Input,Output,Accumulation,Generation,2,mass_balance
+956,medium,Why is a purge stream required in recycle systems? (Variant 319),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+957,hard,Which balance must always be satisfied? (Variant 319),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+958,easy,Which term is zero in steady-state mass balance? (Variant 320),Input,Output,Accumulation,Generation,2,mass_balance
+959,medium,Why is a purge stream required in recycle systems? (Variant 320),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+960,hard,Which balance must always be satisfied? (Variant 320),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+961,easy,Which term is zero in steady-state mass balance? (Variant 321),Input,Output,Accumulation,Generation,2,mass_balance
+962,medium,Why is a purge stream required in recycle systems? (Variant 321),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+963,hard,Which balance must always be satisfied? (Variant 321),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+964,easy,Which term is zero in steady-state mass balance? (Variant 322),Input,Output,Accumulation,Generation,2,mass_balance
+965,medium,Why is a purge stream required in recycle systems? (Variant 322),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+966,hard,Which balance must always be satisfied? (Variant 322),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+967,easy,Which term is zero in steady-state mass balance? (Variant 323),Input,Output,Accumulation,Generation,2,mass_balance
+968,medium,Why is a purge stream required in recycle systems? (Variant 323),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+969,hard,Which balance must always be satisfied? (Variant 323),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+970,easy,Which term is zero in steady-state mass balance? (Variant 324),Input,Output,Accumulation,Generation,2,mass_balance
+971,medium,Why is a purge stream required in recycle systems? (Variant 324),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+972,hard,Which balance must always be satisfied? (Variant 324),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+973,easy,Which term is zero in steady-state mass balance? (Variant 325),Input,Output,Accumulation,Generation,2,mass_balance
+974,medium,Why is a purge stream required in recycle systems? (Variant 325),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+975,hard,Which balance must always be satisfied? (Variant 325),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+976,easy,Which term is zero in steady-state mass balance? (Variant 326),Input,Output,Accumulation,Generation,2,mass_balance
+977,medium,Why is a purge stream required in recycle systems? (Variant 326),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+978,hard,Which balance must always be satisfied? (Variant 326),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+979,easy,Which term is zero in steady-state mass balance? (Variant 327),Input,Output,Accumulation,Generation,2,mass_balance
+980,medium,Why is a purge stream required in recycle systems? (Variant 327),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+981,hard,Which balance must always be satisfied? (Variant 327),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+982,easy,Which term is zero in steady-state mass balance? (Variant 328),Input,Output,Accumulation,Generation,2,mass_balance
+983,medium,Why is a purge stream required in recycle systems? (Variant 328),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+984,hard,Which balance must always be satisfied? (Variant 328),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+985,easy,Which term is zero in steady-state mass balance? (Variant 329),Input,Output,Accumulation,Generation,2,mass_balance
+986,medium,Why is a purge stream required in recycle systems? (Variant 329),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+987,hard,Which balance must always be satisfied? (Variant 329),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+988,easy,Which term is zero in steady-state mass balance? (Variant 330),Input,Output,Accumulation,Generation,2,mass_balance
+989,medium,Why is a purge stream required in recycle systems? (Variant 330),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+990,hard,Which balance must always be satisfied? (Variant 330),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+991,easy,Which term is zero in steady-state mass balance? (Variant 331),Input,Output,Accumulation,Generation,2,mass_balance
+992,medium,Why is a purge stream required in recycle systems? (Variant 331),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+993,hard,Which balance must always be satisfied? (Variant 331),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+994,easy,Which term is zero in steady-state mass balance? (Variant 332),Input,Output,Accumulation,Generation,2,mass_balance
+995,medium,Why is a purge stream required in recycle systems? (Variant 332),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+996,hard,Which balance must always be satisfied? (Variant 332),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+997,easy,Which term is zero in steady-state mass balance? (Variant 333),Input,Output,Accumulation,Generation,2,mass_balance
+998,medium,Why is a purge stream required in recycle systems? (Variant 333),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+999,hard,Which balance must always be satisfied? (Variant 333),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1000,easy,Which term is zero in steady-state mass balance? (Variant 334),Input,Output,Accumulation,Generation,2,mass_balance
+1001,medium,Why is a purge stream required in recycle systems? (Variant 334),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1002,hard,Which balance must always be satisfied? (Variant 334),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1003,easy,Which term is zero in steady-state mass balance? (Variant 335),Input,Output,Accumulation,Generation,2,mass_balance
+1004,medium,Why is a purge stream required in recycle systems? (Variant 335),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1005,hard,Which balance must always be satisfied? (Variant 335),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1006,easy,Which term is zero in steady-state mass balance? (Variant 336),Input,Output,Accumulation,Generation,2,mass_balance
+1007,medium,Why is a purge stream required in recycle systems? (Variant 336),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1008,hard,Which balance must always be satisfied? (Variant 336),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1009,easy,Which term is zero in steady-state mass balance? (Variant 337),Input,Output,Accumulation,Generation,2,mass_balance
+1010,medium,Why is a purge stream required in recycle systems? (Variant 337),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1011,hard,Which balance must always be satisfied? (Variant 337),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1012,easy,Which term is zero in steady-state mass balance? (Variant 338),Input,Output,Accumulation,Generation,2,mass_balance
+1013,medium,Why is a purge stream required in recycle systems? (Variant 338),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1014,hard,Which balance must always be satisfied? (Variant 338),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1015,easy,Which term is zero in steady-state mass balance? (Variant 339),Input,Output,Accumulation,Generation,2,mass_balance
+1016,medium,Why is a purge stream required in recycle systems? (Variant 339),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1017,hard,Which balance must always be satisfied? (Variant 339),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1018,easy,Which term is zero in steady-state mass balance? (Variant 340),Input,Output,Accumulation,Generation,2,mass_balance
+1019,medium,Why is a purge stream required in recycle systems? (Variant 340),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1020,hard,Which balance must always be satisfied? (Variant 340),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1021,easy,Which term is zero in steady-state mass balance? (Variant 341),Input,Output,Accumulation,Generation,2,mass_balance
+1022,medium,Why is a purge stream required in recycle systems? (Variant 341),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1023,hard,Which balance must always be satisfied? (Variant 341),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1024,easy,Which term is zero in steady-state mass balance? (Variant 342),Input,Output,Accumulation,Generation,2,mass_balance
+1025,medium,Why is a purge stream required in recycle systems? (Variant 342),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1026,hard,Which balance must always be satisfied? (Variant 342),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1027,easy,Which term is zero in steady-state mass balance? (Variant 343),Input,Output,Accumulation,Generation,2,mass_balance
+1028,medium,Why is a purge stream required in recycle systems? (Variant 343),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1029,hard,Which balance must always be satisfied? (Variant 343),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1030,easy,Which term is zero in steady-state mass balance? (Variant 344),Input,Output,Accumulation,Generation,2,mass_balance
+1031,medium,Why is a purge stream required in recycle systems? (Variant 344),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1032,hard,Which balance must always be satisfied? (Variant 344),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1033,easy,Which term is zero in steady-state mass balance? (Variant 345),Input,Output,Accumulation,Generation,2,mass_balance
+1034,medium,Why is a purge stream required in recycle systems? (Variant 345),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1035,hard,Which balance must always be satisfied? (Variant 345),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1036,easy,Which term is zero in steady-state mass balance? (Variant 346),Input,Output,Accumulation,Generation,2,mass_balance
+1037,medium,Why is a purge stream required in recycle systems? (Variant 346),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1038,hard,Which balance must always be satisfied? (Variant 346),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1039,easy,Which term is zero in steady-state mass balance? (Variant 347),Input,Output,Accumulation,Generation,2,mass_balance
+1040,medium,Why is a purge stream required in recycle systems? (Variant 347),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1041,hard,Which balance must always be satisfied? (Variant 347),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1042,easy,Which term is zero in steady-state mass balance? (Variant 348),Input,Output,Accumulation,Generation,2,mass_balance
+1043,medium,Why is a purge stream required in recycle systems? (Variant 348),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1044,hard,Which balance must always be satisfied? (Variant 348),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1045,easy,Which term is zero in steady-state mass balance? (Variant 349),Input,Output,Accumulation,Generation,2,mass_balance
+1046,medium,Why is a purge stream required in recycle systems? (Variant 349),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1047,hard,Which balance must always be satisfied? (Variant 349),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
+1048,easy,Which term is zero in steady-state mass balance? (Variant 350),Input,Output,Accumulation,Generation,2,mass_balance
+1049,medium,Why is a purge stream required in recycle systems? (Variant 350),Increase conversion,Remove inert accumulation,Reduce pressure,Increase recycle ratio,1,recycle_systems
+1050,hard,Which balance must always be satisfied? (Variant 350),Component balance,Energy balance,Overall mass balance,Entropy balance,2,conservation_laws
