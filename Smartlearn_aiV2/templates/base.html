@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header>
+    <h1>AI-Based Personalized Learning (Chemical Engineering)</h1>
+</header>
+
+<nav>
+    {% if session.get("role") %}
+        <span>Logged in as: {{ session.get("role") }}</span>
+        <form action="/auth/logout" method="post">
+            <button type="submit">Logout</button>
+        </form>
+    {% endif %}
+</nav>
+
+<main>
+    {% block content %}{% endblock %}
+</main>
+
+<footer>
+    <p>Academic Project | RL + PLM | Chemical Engineering</p>
+</footer>
+
+</body>
+</html>

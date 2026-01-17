@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Learning</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h2>🎓 Student Dashboard</h2>
+<p><b>Current Proficiency:</b> {{ proficiency }}</p>
+
+<hr>
+
+<!-- QUESTION BOX -->
+<div class="box question">
+    <h3>📘 Current Question</h3>
+    <p id="question">Loading question...</p>
+
+    <form id="mcqForm" onsubmit="submitAnswer(event)">
+        <div id="options"></div>
+
+        <br>
+        <label><b>Explain your reasoning (optional):</b></label><br>
+        <textarea id="explanation" rows="3"></textarea>
+
+        <!-- Hidden state -->
+        <input type="hidden" id="correct_option">
+        <input type="hidden" id="difficulty">
+        <input type="hidden" id="action">
+
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+</div>
+
+<hr>
+
+<!-- FEEDBACK -->
+<div id="feedback" class="box feedback" style="display:none;"></div>
+
+<script>
+async function loadQuestion() {
+    const res = await fetch("/student/get_problem", { method: "POST" });
+    const data = await res.json();
+
+    document.getElementById("question").innerText = data.question;
+    document.getElementById("options").innerHTML = "";
+
+    data.options.forEach((opt, idx) => {
+        document.getElementById("options").innerHTML += `
+            <label>
+                <input type="radio" name="selected_option" value="${idx}" required>
+                ${opt}
+            </label><br>
+        `;
+    });
+
+    document.getElementById("correct_option").value = data.correct_option;
+    document.getElementById("difficulty").value = data.difficulty;
+    document.getElementById("action").value = JSON.stringify(data.action);
+
+    document.getElementById("feedback").style.display = "none";
+}
+
+async function submitAnswer(event) {
+    event.preventDefault();
+
+    const selected = document.querySelector(
+        'input[name="selected_option"]:checked'
+    );
+
+    if (!selected) {
+        alert("Please select an option");
+        return;
+    }
+
+    const formData = new FormData();
+    formData.append("selected_option", selected.value);
+    formData.append("correct_option", document.getElementById("correct_option").value);
+    formData.append("difficulty", document.getElementById("difficulty").value);
+    formData.append("action", document.getElementById("action").value);
+    formData.append("explanation", document.getElementById("explanation").value);
+
+    const response = await fetch("/student/submit", {
+        method: "POST",
+        body: formData
+    });
+
+    const data = await response.json();
+
+    // ---------- Feedback ----------
+    document.getElementById("feedback").style.display = "block";
+    document.getElementById("feedback").innerHTML = `
+        <h3>🧠 Feedback</h3>
+        <p><b>Correct:</b> ${data.feedback.correct}</p>
+        <p><b>Conceptual Score:</b> ${data.feedback.conceptual_score}</p>
+        <p>${data.feedback.message}</p>
+
+        <hr>
+
+        <h3>➡️ Next Question</h3>
+        <p>${data.next_question.question}</p>
+    `;
+
+    // ---------- Load Next Question ----------
+    document.getElementById("question").innerText =
+        data.next_question.question;
+
+    document.getElementById("options").innerHTML = "";
+    data.next_question.options.forEach((opt, idx) => {
+        document.getElementById("options").innerHTML += `
+            <label>
+                <input type="radio" name="selected_option" value="${idx}" required>
+                ${opt}
+            </label><br>
+        `;
+    });
+
+    document.getElementById("correct_option").value =
+        data.next_question.correct_option;
+
+    document.getElementById("difficulty").value =
+        data.next_question.difficulty;
+
+    document.getElementById("action").value =
+        JSON.stringify(data.next_question.action);
+
+    document.getElementById("explanation").value = "";
+}
+
+window.onload = loadQuestion;
+</script>
+
+</body>
+</html>
